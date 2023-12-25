@@ -1,0 +1,7 @@
+# Ignore artifacts:
+build
+coverage
+.gitignore
+.github
+package.json
+package-lock.json

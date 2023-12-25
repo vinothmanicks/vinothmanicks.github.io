@@ -1,2 +1,3 @@
 # vinothmanicks.github.io
-Personal Website
+
+Personal Website created using `Next.js 14`
